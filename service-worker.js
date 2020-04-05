@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-excalibur-krv/precache-manifest.59c386e273f1165864a995dbc33fa877.js"
+  "/Crio-Launch-Feb-2020-excalibur-krv/precache-manifest.b386c0ee13b96062e71a126fc532d57c.js"
 );
 
 self.addEventListener('message', (event) => {
